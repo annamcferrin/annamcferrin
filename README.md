@@ -6,6 +6,8 @@ Computer Information Systems student at The University of North Alabama
 
 I am currently a senior at The University of North Alabama with a major in Computer Information Systems and a minor in Cybersecurity.
 
+* 🌍  I'm based in Alabama
+* 🎓  Expected graduation: May 2027
 * ✉️  You can contact me at [annamcferrin@icloud.com](mailto:annamcferrin@icloud.com)
 
 <p align="left">
