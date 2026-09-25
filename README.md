@@ -8,7 +8,6 @@ I am currently a senior at The University of North Alabama with a major in Compu
 
 * 🌍  I'm based in Alabama
 * 🎓  Expected graduation: May 2027
-* ✉️  You can contact me at [annamcferrin@icloud.com](mailto:annamcferrin@icloud.com)
 
 ### Languages & Tools
 <p align="left">
