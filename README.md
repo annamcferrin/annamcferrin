@@ -17,3 +17,12 @@ I am currently a senior at The University of North Alabama with a major in Compu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/annamcferrin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/anna-mcferrin-07878b370" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+
+## 🍕 My Projects
+
+### Pizza Catch
+An Italian-inspired drag-and-drop web game built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
+
+- [View GitHub Repository](https://github.com/annamcferrin/dev-charlie)
+- [Play Pizza Catch](https://annamcferrin.github.io/dev-charlie/)
