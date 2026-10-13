@@ -22,7 +22,7 @@ I am currently a senior at The University of North Alabama with a major in Compu
 ## My Projects
 
 ### Pizza Catch
-An Italian-inspired drag-and-drop web game built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
+A drag-and-drop web game built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 - [View GitHub Repository](https://github.com/annamcferrin/dev-charlie)
 - [Play Pizza Catch](https://annamcferrin.github.io/dev-charlie/)
